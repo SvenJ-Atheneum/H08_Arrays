@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="B8_1_ArrayDeclarerenVullenEnTonen/B8_1_ArrayDeclarerenVullenEnTonen.csproj" />
+  <Project Path="B8_2_ArraySortBinarySearch/B8_2_ArraySortBinarySearch.csproj" />
+  <Project Path="B8_3_StringmethodenVerkennen/B8_3_StringmethodenVerkennen.csproj" />
+  <Project Path="E8_1_MethodenMetArrays/E8_1_MethodenMetArrays.csproj" />
+  <Project Path="E8_2_WeekroosterMet2DArray/E8_2_WeekroosterMet2DArray.csproj" />
+  <Project Path="E8_3_CSVParserMetSplitEnMethoden/E8_3_CSVParserMetSplitEnMethoden.csproj" />
+  <Project Path="P8_1_BubbleSortMetArrays/P8_1_BubbleSortMetArrays.csproj" />
+  <Project Path="P8_2_VolledigScoreRegistratiesysteem/P8_2_VolledigScoreRegistratiesysteem.csproj" />
+</Solution>
